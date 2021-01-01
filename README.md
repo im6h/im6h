@@ -1,11 +1,11 @@
-### Hi there 👋, My name is Vu Hai Dang
+### Hi there 👋, My name is Vu Hai Dang.
 
-I'm a software/fullstack developer. I'm from Viet Nam, living in Ha Noi and working at Agiletech
+I'm a Software/Backend developer. I'm from Viet Nam, living in Ha Noi and working at Agiletech.
 
-- 🔭 I’m working on Typescript, Javascript, NestJS, Java, ReactJS, React Native
-- 🌱 I’m learning Rust
+- 🔭 I’m working on Typescript, Javascript, NestJS.
+- 🌱 I’m learning Rust.
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies & Tools:
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux)
 
@@ -14,18 +14,15 @@ I'm a software/fullstack developer. I'm from Viet Nam, living in Ha Noi and work
 ![](https://img.shields.io/badge/Lang-Java-informational?style=flat&logo=java&logoColor=red)
 ![](https://img.shields.io/badge/Lang-Rust-informational?style=flat&logo=rust&logoColor=orange)
 
-![](https://img.shields.io/badge/Framework-React-information?style=flat&logo=react&color=blue)
-![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js)
 ![](https://img.shields.io/badge/Framework-NestJS-informational?style=flat&logo=nestjs&&logoColor=red)
 ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=green)
 
-![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=orange)
-![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=blue)
-![](https://img.shields.io/badge/Tool-SQL-informational?style=flat&logo=mysql&logoColor=blue)
-![](https://img.shields.io/badge/Tool-NeoVim-informational?style=flat&logo=vim&logoColor=green)
-![](https://img.shields.io/badge/Tool-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=blue)
+![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&logoColor=orange)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=Docker&logoColor=blue)
+![](https://img.shields.io/badge/Tool-NeoVim-informational?style=flat&logo=NeoVim&logoColor=green)
+![](https://img.shields.io/badge/Tool-Atom-informational?style=flat&logo=atom&logoColor=green)
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats:
 
 <div style="display:flex">
 
