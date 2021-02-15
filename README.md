@@ -20,7 +20,7 @@ I'm a Software/Backend developer. I'm from Viet Nam, living in Ha Noi and workin
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&logoColor=orange)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=Docker&logoColor=blue)
 ![](https://img.shields.io/badge/Tool-NeoVim-informational?style=flat&logo=NeoVim&logoColor=green)
-![](https://img.shields.io/badge/Tool-Atom-informational?style=flat&logo=atom&logoColor=green)
+![](https://img.shields.io/badge/Tool-VSCode-informational?style=flat&logo=vscode&logoColor=blue)
 
 ## &#x1f4c8; GitHub Stats:
 
