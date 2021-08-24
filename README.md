@@ -3,7 +3,7 @@
 I'm a Software/Backend developer. I'm from Viet Nam, living in Ha Noi and working at Agiletech.
 
 - 🔭 I’m working on Typescript, Javascript, NestJS.
-- 🌱 I’m learning Rust, Go.
+- 🌱 I’m learning become Data Enginneer.
 
 ## 🔧 Technologies & Tools:
 
