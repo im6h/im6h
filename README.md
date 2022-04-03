@@ -1,10 +1,6 @@
 ### Hi there 👋, My name is Vu Hai Dang.
 
-I'm a Software/Backend developer. I'm from Viet Nam, living in Ha Noi.
-
-- 🔭 I’m working on Typescript, Javascript, NestJS.
-- 🌱 I’m learning become Data Enginneer.
--  FP enthusiast.
+I'm from Viet Nam, living in Ha Noi.
 
 ## &#x1f4c8; GitHub Stats:
 
