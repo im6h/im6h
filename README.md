@@ -1,6 +1,15 @@
-### Hi there 👋, My name is Vu Hai Dang.
+### Hi there 👋
 
-I'm from Viet Nam, living in Ha Noi.
+```yaml
+apiVersion: v25
+kind: Human 
+metadata:
+  name: Vu Hai Dang
+  aka: im6h 
+spec:
+  locations: Ha Noi City, Viet Nam.
+  love: Backend, DevOps and Containers.
+```
 
 ## &#x1f4c8; GitHub Stats:
 
