@@ -1,14 +1,15 @@
 ### Hi there 👋
 
 ```yaml
-apiVersion: v25
+apiVersion: v26
 kind: Human 
 metadata:
   name: Vu Hai Dang
   aka: im6h
 spec:
   locations: Ha Noi City, Viet Nam.
-  love: Backend, DevOps and Containers.
+  focus on: Backend, DevOps and Containers.
+  love: mechanical keyboard, running and learning
   number: 7
 ```
 
