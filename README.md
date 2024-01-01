@@ -5,12 +5,12 @@ apiVersion: v26
 kind: Human 
 metadata:
   name: Vu Hai Dang
-  aka: im6h
+  location: Vietnam.
+  alias: im6h
 spec:
-  locations: Ha Noi City, Viet Nam.
-  focus on: Backend, DevOps and Containers.
-  love: mechanical keyboard, running and learning
-  number: 7
+  focus on: Container, System Architecture and Cloud Native.
+  love: mechanical keyboard, running and learning.
+  number: 7.
 ```
 
 ## &#x1f4c8; GitHub Stats:
