@@ -4,12 +4,12 @@
 apiVersion: v26
 kind: Human 
 metadata:
-  name: Vu Hai Dang
-  location: Vietnam.
+  name: "Vu Hai Dang"
+  location: Vietnam
   alias: im6h
 spec:
-  focus on: Container, System Architecture and Cloud Native.
-  love: mechanical keyboard, running and learning.
+  focus_on: "Container, System Architecture and Cloud Native."
+  love: "mechanical keyboard, running and learning."
   number: 7.
 ```
 
