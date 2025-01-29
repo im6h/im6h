@@ -8,9 +8,9 @@ metadata:
   location: Vietnam
   alias: im6h
 spec:
-  focus_on: "Container, System Architecture and Cloud Native."
-  love: "mechanical keyboard, running and learning."
-  number: 7.
+  focusOn: ["Container", "Cloud Native"]
+  love: ["mechanical_keyboard", "homelab"]
+  number: 7
 ```
 
 ## &#x1f4c8; GitHub Stats:
