@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ```yaml
-apiVersion: v2
+apiVersion: v28
 kind: Human 
 metadata:
   name: "Vu Hai Dang"
