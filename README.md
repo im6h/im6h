@@ -19,6 +19,6 @@ spec:
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/im6h) -->
 
-[![My GitFut card](https://gitfut.com/im6h.png)](https://gitfut.com/im6h)
+<a href="https://mikeyy.space/"><img src="https://gitfut.com/im6h.png" width="240" alt="GitFut card"></a>
 
 </div>
