@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-direction: row; align-items: stretch; gap: 1.5rem; margin: 2rem 0;">
   <div style="display: flex; align-items: center; justify-content: center; flex-shrink: 0;">
-    <img src="https://gitfut.com/im6h.png" class="avatar-image-flat" alt="Vu Hai Dang (doku)">
+    <img src="https://gitfut.com/im6h.png" width="240" alt="Vu Hai Dang (doku)">
   </div>
   <div style="flex: 1; min-width: 0;">
 
