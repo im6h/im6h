@@ -15,7 +15,7 @@ spec:
 
 ## &#x1f4c8; GitHub Stats:
 
-<div style="display:flex">
+<div style="display:flex" align="center">
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/im6h) -->
 
