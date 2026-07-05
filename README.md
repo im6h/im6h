@@ -1,4 +1,4 @@
-<img align="left" width="280" height="500" src="https://gitfut.com/im6h.png" alt="Vu Hai Dang (doku)">
+<img align="left" width="300" height="480" src="https://gitfut.com/im6h.png" alt="Vu Hai Dang (doku)">
 
 ```yaml
 apiVersion: dev/doku.io/v1
