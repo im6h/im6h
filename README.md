@@ -14,8 +14,7 @@ spec:
     building reliable containerized infra & homelabs.
   links:
     github: "https://github.com/im6h"
-    email: "danghaiv.18@gmail.com"
-    blog: "/posts/"
+    blog: "https://dokuu.tech"
     dotfiles: "https://github.com/im6h/dotfiles"
 status:
   stack:
