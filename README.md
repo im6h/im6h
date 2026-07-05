@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<div>
-<img src="https://gitfut.com/im6h.png" width="240" alt="Vu Hai Dang (doku)">
+<img align="left" width="300" height="500" src="https://gitfut.com/im6h.png" alt="Vu Hai Dang (doku)">
 
 ```yaml
 apiVersion: dev/doku.io/v1
@@ -31,5 +28,3 @@ status:
     - "cloud-native ☁️"
     - "mechanical-keyboards ⌨️"
 ```
-
-</div>
